@@ -1,3 +1,8 @@
+
+
+https://openclawskillscanner.aaronwiseai.com/
+
+
 # Openclaw-skill-scanner
 Tells you exactly what an openclaw skill does if it's safe if it is malicious 
 # 🦞 ClawScan
@@ -160,6 +165,7 @@ Each detection rule follows this structure:
 ---
 
 ## 🔗 Resources
+https://openclawskillscanner.aaronwiseai.com/
 
 **OpenClaw Ecosystem:**
 - [OpenClaw](https://openclaw.ai) — The personal AI assistant ClawScan protects
